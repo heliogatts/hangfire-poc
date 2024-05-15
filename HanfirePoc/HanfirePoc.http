@@ -1,0 +1,6 @@
+@HanfirePoc_HostAddress = http://localhost:5135
+
+GET {{HanfirePoc_HostAddress}}/job/
+Accept: application/json
+
+###
